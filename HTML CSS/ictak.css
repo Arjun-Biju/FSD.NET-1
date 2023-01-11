@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*creating a global website alignment on every web browser  */
+
+body{
+    background-image: url(./image/GR7_6938_2.jpg);
+    background-size: cover;
+}
+
+.navigation{
+    float: right;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.navigation a{
+    text-decoration: none;
+    color: blanchedalmond;
+    padding: 10px;
+    border: 2px solid white;
+    margin: 10px;
+    border-radius: 30%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navigation a:hover{
+    background-color: white;
+    color: black;
+}

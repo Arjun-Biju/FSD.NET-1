@@ -1,0 +1,25 @@
+body{
+background-color: silver;
+}
+
+.header{
+    background-color: black;
+    margin-left: -10px;
+    margin-right: -8px;
+    margin-top: -10px;
+}
+
+#logo{
+    margin: -20px 10px 10px 20px;
+    height: 150px;
+    width: 180px;
+}
+
+.exp{
+    border: solid 2px black; 
+    margin-right: 75%; 
+    padding-left: 50px;
+    padding-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: grey;
+}
