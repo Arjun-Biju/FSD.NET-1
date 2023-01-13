@@ -4,11 +4,11 @@
 }
 /*creating a global website alignment on every web browser  */
 
-body{
+/*body{
     background-image: url(./image/GR7_6938_2.jpg);
     background-size: cover;
 }
-
+*/
 .navigation{
     float: right;
     margin-top: 30px;
@@ -28,4 +28,9 @@ body{
 .navigation a:hover{
     background-color: white;
     color: black;
+}
+
+div{
+    display: block;
+    color: red;
 }
