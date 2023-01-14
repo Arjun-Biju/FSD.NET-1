@@ -4,11 +4,11 @@
 }
 /*creating a global website alignment on every web browser  */
 
-/*body{
-    background-image: url(./image/GR7_6938_2.jpg);
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.mBTgdT8O2KMy_lAkUVz6DAHaHa?pid=ImgDet&rs=1);
     background-size: cover;
+    background-repeat: no-repeat;
 }
-*/
 .navigation{
     float: right;
     margin-top: 30px;
@@ -22,15 +22,91 @@
     border: 2px solid white;
     margin: 10px;
     border-radius: 30%;
+    transition: 1s ease-in-out;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .navigation a:hover{
     background-color: white;
     color: black;
+    transform: scale(2);
 }
 
 div{
     display: block;
     color: red;
+}
+
+.leftside{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 0px 0px 30px;
+}
+
+form{
+    width: 250px;
+    height: 280px;
+    background-color: bisque;
+    text-align: center;
+    padding: 5px 10px 0px 10px;
+    overflow: hidden;
+    border: 2px solid white;
+    float: right;
+    margin-top: -70px;
+    margin-right: 20px;
+}
+
+input{
+    width: 100%
+}
+
+.container{
+padding: 10px 50px 0px 50px;
+margin-top: 300px;
+width: 100%;
+display: flex;
+text-align: center;
+}
+
+.card1{
+    width: 22%;
+    border: 2px solid wheat;
+    background-color: bisque;
+    height: 150px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 5px;
+}
+
+.card2{
+    width: 22%;
+    border: 2px solid wheat;
+    background-color: bisque;
+    height: 150px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 5px;
+}
+
+.card3{
+    width: 22%;
+    border: 2px solid wheat;
+    background-color: bisque;
+    height: 150px;
+    padding: 10px 10px 10px 10px;
+    margin-right: 5px;
+}
+
+.card4{
+    width: 22%;
+    border: 2px solid wheat;
+    background-color: bisque;
+    height: 150px;
+    padding: 10px 10px 10px 10px;
+}
+
+h4 {
+    color:black
+}
+
+p{
+    color: black;
 }
