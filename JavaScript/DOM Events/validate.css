@@ -1,0 +1,7 @@
+span{
+    color: crimson;    
+}
+
+span > span{
+    color: green;
+}
