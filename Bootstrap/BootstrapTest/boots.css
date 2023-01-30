@@ -1,0 +1,44 @@
+#logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 25px ;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url('https://cdn.wallpapersafari.com/19/69/c93PGJ.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.nav-link{
+    border: 1px solid white;
+    margin-left: 7px;
+}
+
+.nav-link:hover{
+    color: black !important;
+    background-color: aqua;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.text{
+    list-style-type: square;
+}
+
+.formlogin{
+    background-color: bisque;
+    border: 2px solid crimson;
+    width: 300px !important;
+}
+
+.content{
+    padding-top: 200px;
+}
