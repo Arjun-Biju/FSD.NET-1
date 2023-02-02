@@ -1,0 +1,16 @@
+{
+    "people":[
+        {
+            "name":"Arjun",
+            "gender":"Sigma Male"
+        },
+        {
+            "name":"Meera",
+            "gender":"Female"
+        },
+        {
+            "name":"Robbie",
+            "gender":"Male"
+        }
+    ]
+}
